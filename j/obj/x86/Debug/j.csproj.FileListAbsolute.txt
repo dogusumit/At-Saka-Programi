@@ -1,0 +1,18 @@
+D:\Ders\C# ornekler\j\j\bin\Debug\hacklicem.exe.config
+D:\Ders\C# ornekler\j\j\bin\Debug\hacklicem.exe
+D:\Ders\C# ornekler\j\j\bin\Debug\hacklicem.pdb
+D:\Ders\C# ornekler\j\j\obj\x86\Debug\j.csprojResolveAssemblyReference.cache
+D:\Ders\C# ornekler\j\j\obj\x86\Debug\j.Form1.resources
+D:\Ders\C# ornekler\j\j\obj\x86\Debug\j.Properties.Resources.resources
+D:\Ders\C# ornekler\j\j\obj\x86\Debug\j.csproj.GenerateResource.Cache
+D:\Ders\C# ornekler\j\j\obj\x86\Debug\hacklicem.exe
+D:\Ders\C# ornekler\j\j\obj\x86\Debug\hacklicem.pdb
+D:\Ders\C# ornekler\j - at\j\obj\x86\Debug\j.csprojResolveAssemblyReference.cache
+D:\Ders\C# ornekler\j - at\j\obj\x86\Debug\j.Form1.resources
+D:\Ders\C# ornekler\j - at\j\obj\x86\Debug\j.Properties.Resources.resources
+D:\Ders\C# ornekler\j - at\j\obj\x86\Debug\j.csproj.GenerateResource.Cache
+D:\Ders\C# ornekler\j - at\j\bin\Debug\at.exe.config
+D:\Ders\C# ornekler\j - at\j\bin\Debug\at.exe
+D:\Ders\C# ornekler\j - at\j\bin\Debug\at.pdb
+D:\Ders\C# ornekler\j - at\j\obj\x86\Debug\at.exe
+D:\Ders\C# ornekler\j - at\j\obj\x86\Debug\at.pdb
